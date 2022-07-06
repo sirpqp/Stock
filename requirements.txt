@@ -19,7 +19,7 @@ docutils==0.12
 ecdsa==0.13
 enum34==1.1.6
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
